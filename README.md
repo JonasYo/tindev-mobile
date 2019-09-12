@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TinDev Backend
 
 Projeto desenvolvido na semana OmniStack 8 da Rocketseat utilizando React Native.
@@ -31,3 +32,6 @@ Pull requests são bem-vindos.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+=======
+# tindev-mobile
+>>>>>>> 4157975e790c82fe4eca33d3bebaa7453eaceb22
