@@ -1,5 +1,7 @@
 # TinDev Mobile
 
+![Image01](other_files/screen01.jpg) 
+
 Projeto desenvolvido na semana OmniStack 8 da Rocketseat utilizando React Native.
 
 ## Objetivos
@@ -22,9 +24,6 @@ cd tindev-mobile
 # Instale as dependências NPM
 npm install
 ```
-
-![Image01](other_files/screen01.jpg) 
-
 
 ## Contribuições
 Pull requests são bem-vindos.
